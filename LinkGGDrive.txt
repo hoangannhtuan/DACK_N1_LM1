@@ -1,1 +1,8 @@
+Link Video
 https://drive.google.com/drive/folders/1xy7IWLHkorMWbY1YRJf8QCPoyFiN941y?usp=share_link
+
+Link Jira
+https://hoanganhtuan102003.atlassian.net/jira/software/c/projects/N1/boards/2/roadmap
+
+Link Githug
+https://github.com/hoangannhtuan/DACK_N1_LM1.git
