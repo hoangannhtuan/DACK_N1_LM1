@@ -1,0 +1,13 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"cgv_cinemas"},
+{"type":"table","name":"users","database":"cgv_cinemas","data":
+[
+{"user_id":"KH001","username":"tuan03w","password":"123456789a","fullname":null,"birthday":null,"gender":null,"email":null,"phone":null},
+{"user_id":"KH002","username":"tuan01w","password":"123456789a","fullname":null,"birthday":null,"gender":null,"email":null,"phone":null},
+{"user_id":"KH003","username":"tuan02w","password":"123456789a","fullname":null,"birthday":null,"gender":null,"email":null,"phone":null},
+{"user_id":"KH004","username":"tuan04w","password":"123456789a","fullname":null,"birthday":null,"gender":null,"email":null,"phone":null},
+{"user_id":"KH005","username":"tuan05w","password":"123456789a","fullname":null,"birthday":null,"gender":null,"email":null,"phone":null}
+]
+}
+]
